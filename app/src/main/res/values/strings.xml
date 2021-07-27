@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="basic_details">I am Zaid Kamil\nI work at Digipodium as a trainer\nI know a lot of programming languages and stuff.
+    </string>
+    <string name="family_details">
+        I have a big family, and we live happily.
+    </string>
+</resources>
